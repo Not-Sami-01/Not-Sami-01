@@ -28,8 +28,7 @@ A privacy-first journaling SaaS with AES-256 encryption, zero-knowledge mode, va
 | JavaScript / TypeScript | Frontend & Backend |
 | React / Next.js | Web Apps |
 | Node.js / Express | APIs & Services |
-| MongoDB | Databases |
-| React Native | Mobile |
+| SQL/NoSQL | Databases |
 | Python, PHP, C, C++ | Scripting & Systems |
 | AES-256, Zero Knowledge | Security & Encryption |
 
