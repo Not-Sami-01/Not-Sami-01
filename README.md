@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hey, I'm Sami Ul Rehman
+**Full Stack Developer · Self-taught · Based in Pakistan**
 
-<!--
-**Not-Sami-01/Not-Sami-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MERN](https://img.shields.io/badge/MERN_Stack-blue?style=flat-square)
+![PHP Laravel](https://img.shields.io/badge/Php_Laravel-purple?style=flat-square)
+![Encryption](https://img.shields.io/badge/AES--256_Encryption-teal?style=flat-square)
+![Remote](https://img.shields.io/badge/Open_to_remote-green?style=flat-square)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Self-taught developer with 3 years of building real products. I learned everything from YouTube and shipped a live encrypted SaaS — no bootcamp, no degree, just obsessive curiosity. Currently looking for remote opportunities.
+
+---
+
+### Featured Project — Vaultifier
+
+A privacy-first journaling SaaS with AES-256 encryption, zero-knowledge mode, vault architecture, and subscription billing. Users can switch between ZK and standard encryption, manage multiple vaults, and import/export their data with full ownership.
+
+**Stack:** Next.js · Node.js · MongoDB · AES-256 · React  
+**Live:** [vaultifier.com](https://vaultifier.com)
+
+---
+
+### 🛠 Stack
+
+| Language / Framework | Areas |
+|---|---|
+| JavaScript / TypeScript | Frontend & Backend |
+| React / Next.js | Web Apps |
+| Node.js / Express | APIs & Services |
+| MongoDB | Databases |
+| React Native | Mobile |
+| Python, PHP, C, C++ | Scripting & Systems |
+| AES-256, Zero Knowledge | Security & Encryption |
+
+---
+
+ Open to remote full-stack or backend roles — reach out anytime!
